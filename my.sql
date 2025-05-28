@@ -1,4 +1,3 @@
-
 -- 📌 데이터베이스 선택
 CREATE DATABASE IF NOT EXISTS myboard;
 USE myboard;
